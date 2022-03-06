@@ -22,10 +22,6 @@ public class MethodExample {
     }
     //here return type is int so method should return any int value
     //return type and return statement should always be same
-    private int add(int x, int y){
-        int sum = x + y;
-        return sum;
-    }
 
     /*
     method to calucale sum of threee marks entered

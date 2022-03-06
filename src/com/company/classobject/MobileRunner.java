@@ -13,7 +13,7 @@ public class MobileRunner {
         System.out.println(mbl);
         System.out.println(mbl.getprice());
         mbl.printMobileColor(mbl.mobileName);
-        Mobile mbl1=new Mobile("Iphone","Orange",2021,"ProMax",1200);
+        Mobile mbl1=new Mobile("Iphone","Orange",2021,"ProMax1",1200);
         System.out.println(mbl1);
         System.out.println(mbl1.getprice());
         mbl1.printMobileColor(mbl1.mobileName);
